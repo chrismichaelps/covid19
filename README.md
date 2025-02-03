@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/COVID19-API-brightgreen.svg" alt="">
 <img src="https://badgen.net/badge/icon/now?icon=now&label" alt="">
 
-<img src="https://travis-ci.com/ChrisMichaelPerezSantiago/covid19.svg?branch=master"/>
+<img src="https://travis-ci.com/chrismichaelps/covid19.svg?branch=master"/>
 
 <p align="center">
   <a href="https://nodei.co/npm/covid19-api/"><img src="https://nodei.co/npm/covid19-api.png"></a>
@@ -2049,7 +2049,7 @@ These are projects that take a lot of effort and time to maintain. So with your 
 
 ### **:busts_in_silhouette: Credits**
 
-- [Chris Michael](https://github.com/ChrisMichaelPerezSantiago) (Project Leader, and Developer)
+- [Chris Michael](https://github.com/chrismichaelps) (Project Leader, and Developer)
 
 ---
 
@@ -2074,13 +2074,13 @@ Feel free to open issues or submit pull-requests to help me improving my work.
 _*Chris Michael*_
 
 > You can follow me on
-[github](https://github.com/ChrisMichaelPerezSantiago)&nbsp;&middot;&nbsp;[twitter](https://twitter.com/Chris5855M)
+[github](https://github.com/chrismichaelps)&nbsp;&middot;&nbsp;[twitter](https://twitter.com/Chris5855M)
 
 ---
 
 
 <p align="center">
- <a src="https://github.com/ChrisMichaelPerezSantiago/covid19">Copyright © 2020 COVID19 API</a>
+ <a src="https://github.com/chrismichaelps/covid19">Copyright © 2020 COVID19 API</a>
   <br/><br/>
   <img src="./assets/svg/powered-by-vercel.svg"/>
 </p>
